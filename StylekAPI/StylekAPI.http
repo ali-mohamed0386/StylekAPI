@@ -1,0 +1,6 @@
+@StylekAPI_HostAddress = http://localhost:5105
+
+GET {{StylekAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
